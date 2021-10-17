@@ -31,6 +31,7 @@ export const SearchForm = () => {
             id='name'
             ref={searchValue}
             onChange={searchCocktail}
+            placeholder='search'
           />
         </div>
       </form>

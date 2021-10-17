@@ -7,7 +7,7 @@ export const Navbar = () => {
     <div className='navbar'>
       <div className='nav-center'>
         <Link to='/'>
-          <h1>Cocktail Store</h1>
+          <h2 style={{ color: "#dfdfdf" }}>Cocktail Store</h2>
         </Link>
         <ul className='nav-links'>
           <li>
